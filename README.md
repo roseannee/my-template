@@ -17,3 +17,4 @@ npx create-next-app -e https://github.com/roseannee/my-template
 - Tailwind CSS
 - Lucide Icons 
 - Dark mode with `next-themes`
+- Husky git hooks.
